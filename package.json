@@ -1,6 +1,6 @@
 {
 	"name": "tableparse",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Parse tables as objects",
 	"main": "index.js",
 	"scripts": {
@@ -25,7 +25,9 @@
 	"bugs": {
 		"url": "https://github.com/diogoeichert/tableparse/issues"
 	},
-	"funding": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=diogoeichert%40icloud.com&item_name=tableparse&currency_code=EUR",
+	"funding": {
+		"url": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=diogoeichert%40icloud.com&item_name=tableparse&currency_code=EUR"
+	},
 	"homepage": "https://github.com/diogoeichert/tableparse#readme",
 	"devDependencies": {
 		"eslint": "^7.20.0",
